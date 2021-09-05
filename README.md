@@ -1,4 +1,3 @@
-# Hey-I-Already-Did-That---Google
 Google Foobar - Level 2 Answer
 
 # Hey, I Already Did That!
